@@ -42,4 +42,4 @@
         └── styles.xml
 
 ```
-![]()  
+![](https://raw.githubusercontent.com/tea9/android_test_proxy/master/pic/1.jpg)  
